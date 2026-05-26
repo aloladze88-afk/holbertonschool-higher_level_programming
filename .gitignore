@@ -4,3 +4,4 @@ python-serialization/study_session.pkl
 python-serialization/object.pkl
 python-serialization/__pycache__/task_01_pickle.cpython-312.pyc
 .gitignore
+python-serialization/task_02_csv_test.py
