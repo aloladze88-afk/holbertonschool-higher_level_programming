@@ -1,1 +1,6 @@
 python-serialization/task_01_pickle_alternative.py
+python-serialization/task_01_pickle_test.py
+python-serialization/study_session.pkl
+python-serialization/object.pkl
+python-serialization/__pycache__/task_01_pickle.cpython-312.pyc
+.gitignore
