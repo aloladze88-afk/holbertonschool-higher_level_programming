@@ -15,3 +15,8 @@ python-server_side_rendering/output_3.txt
 .gitignore
 python-server_side_rendering/output_2.txt
 python-server_side_rendering/task_00_intro_test.py
+python-server_side_rendering/templates/about.html
+python-server_side_rendering/templates/contact.html
+python-server_side_rendering/templates/footer.html
+python-server_side_rendering/templates/header.html
+python-server_side_rendering/templates/index.html
